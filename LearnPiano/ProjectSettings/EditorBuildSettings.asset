@@ -12,4 +12,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Piano.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8b5758955c0f64e4ab3722f8761e2c32, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aebbe93f63fa57842878623254e5dc8b, type: 2}
